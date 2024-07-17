@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\EmployeeProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F78AA740-EFAC-486A-B731-8082B6B02EE8}|EmployeeUI\\EmployeeUI.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\employeeprogram\\employeeui\\xtrapayrolcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78AA740-EFAC-486A-B731-8082B6B02EE8}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\xtrapayrolcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78AA740-EFAC-486A-B731-8082B6B02EE8}|EmployeeUI\\EmployeeUI.csproj|c:\\users\\veli sanr\u0131\\source\\repos\\employeeprogram\\employeeui\\xtrapayrolcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F78AA740-EFAC-486A-B731-8082B6B02EE8}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\xtrapayrolcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XtraPayrolcs.cs",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\EmployeeProgram\\EmployeeUI\\XtraPayrolcs.cs",
+              "RelativeDocumentMoniker": "EmployeeUI\\XtraPayrolcs.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\EmployeeProgram\\EmployeeUI\\XtraPayrolcs.cs",
+              "RelativeToolTip": "EmployeeUI\\XtraPayrolcs.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAuwDwBAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:27:14.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XtraPayrolcs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\EmployeeProgram\\EmployeeUI\\XtraPayrolcs.cs",
+              "RelativeDocumentMoniker": "EmployeeUI\\XtraPayrolcs.cs",
+              "ToolTip": "C:\\Users\\Veli Sanr\u0131\\source\\repos\\EmployeeProgram\\EmployeeUI\\XtraPayrolcs.cs [Design]",
+              "RelativeToolTip": "EmployeeUI\\XtraPayrolcs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:26:14.502Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\Core\bin\Debug\net6.0-windows\Core.deps.json
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\Core\bin\Debug\net6.0-windows\Core.dll
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\Core\bin\Debug\net6.0-windows\Core.pdb
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\Core\obj\Debug\net6.0-windows\Core.csproj.AssemblyReference.cache
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\Core\obj\Debug\net6.0-windows\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\Core\obj\Debug\net6.0-windows\Core.AssemblyInfoInputs.cache
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\Core\obj\Debug\net6.0-windows\Core.AssemblyInfo.cs
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\Core\obj\Debug\net6.0-windows\Core.csproj.CoreCompileInputs.cache
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\Core\obj\Debug\net6.0-windows\Core.dll
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\Core\obj\Debug\net6.0-windows\refint\Core.dll
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\Core\obj\Debug\net6.0-windows\Core.pdb
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\Core\obj\Debug\net6.0-windows\ref\Core.dll

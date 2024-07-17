@@ -1,0 +1,11 @@
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\Entitiess\bin\Debug\net6.0-windows\Entitiess.deps.json
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\Entitiess\bin\Debug\net6.0-windows\Entitiess.dll
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\Entitiess\bin\Debug\net6.0-windows\Entitiess.pdb
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\Entitiess\obj\Debug\net6.0-windows\Entitiess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\Entitiess\obj\Debug\net6.0-windows\Entitiess.AssemblyInfoInputs.cache
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\Entitiess\obj\Debug\net6.0-windows\Entitiess.AssemblyInfo.cs
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\Entitiess\obj\Debug\net6.0-windows\Entitiess.csproj.CoreCompileInputs.cache
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\Entitiess\obj\Debug\net6.0-windows\Entitiess.dll
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\Entitiess\obj\Debug\net6.0-windows\refint\Entitiess.dll
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\Entitiess\obj\Debug\net6.0-windows\Entitiess.pdb
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\Entitiess\obj\Debug\net6.0-windows\ref\Entitiess.dll

@@ -1,0 +1,17 @@
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\DataAccess\bin\Debug\net6.0-windows\DataAccess.deps.json
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\DataAccess\bin\Debug\net6.0-windows\DataAccess.dll
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\DataAccess\bin\Debug\net6.0-windows\DataAccess.pdb
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\DataAccess\bin\Debug\net6.0-windows\Entitiess.dll
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\DataAccess\bin\Debug\net6.0-windows\Entitiess.pdb
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\DataAccess\obj\Debug\net6.0-windows\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\DataAccess\obj\Debug\net6.0-windows\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\DataAccess\obj\Debug\net6.0-windows\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\DataAccess\obj\Debug\net6.0-windows\DataAccess.AssemblyInfo.cs
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\DataAccess\obj\Debug\net6.0-windows\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\DataAccess\obj\Debug\net6.0-windows\DataAccess.csproj.Up2Date
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\DataAccess\obj\Debug\net6.0-windows\DataAccess.dll
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\DataAccess\obj\Debug\net6.0-windows\refint\DataAccess.dll
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\DataAccess\obj\Debug\net6.0-windows\DataAccess.pdb
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\DataAccess\obj\Debug\net6.0-windows\ref\DataAccess.dll
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\DataAccess\bin\Debug\net6.0-windows\Core.dll
+C:\Users\Veli Sanrı\source\repos\EmployeeProgram\DataAccess\bin\Debug\net6.0-windows\Core.pdb
