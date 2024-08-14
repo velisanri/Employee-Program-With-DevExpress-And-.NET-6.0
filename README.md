@@ -6,7 +6,7 @@ Entity Framework
 
 DevExpress
 
-Linq
+LinQ
 
 Dependency Inception
 
